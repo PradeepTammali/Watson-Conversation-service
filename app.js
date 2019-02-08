@@ -1,5 +1,4 @@
 
-//  Reference https://github.com/watson-developer-cloud/assistant-simple
 
 'use strict';
 'use global';
