@@ -1,0 +1,19 @@
+WORKSPACE_ID=
+CONVERSATION_USERNAME=
+CONVERSATION_PASSWORD=
+
+# MongoDB Database name {'No Spaces and dots in database name'}
+DB_NAME=
+# DB_NAME=NXP_PO_FLOW
+# DB_NAME=sample
+
+# Service Now credentials 
+SERVICE_NOW_USER=
+SERVICE_NOW_PASSWORD=
+
+# To make typo(spell check) enable set this varible to true else false.
+TYPO_CHECK=true
+
+# IP and port
+IP_ADDRESSS=
+PORT=
